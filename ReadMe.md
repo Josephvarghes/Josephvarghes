@@ -13,6 +13,6 @@ Hi there! I'm a tech enthusiast driven by a passion for building intelligent sol
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephVarghese&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Joseph Varghese&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JosephVarghese&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
